@@ -1,9 +1,10 @@
-# Output_Viewer
+# OpenFas-monitor
 
-# Real-Time/None Real-time Data Plotter for Wind Turbine Simulation with OpenFast
+# OpenFAST Monitor: Real-time & Post-Processing Visualization Tool
 
-This Python script reads simulation data from the `.out` file from OpenFast and dynamically plots various wind turbine parameters in real-time and non real time.
-It reads time-series data from a simulation output file and dynamically updates plots, allowing users to analyze key parameters such as wind speed, blade pitch, rotor speed, and structural loads.
+A Python tool for live monitoring and analysis of OpenFAST wind turbine simulations. Automatically plots parameters from `.out` files during execution (real-time) or after completion, eliminating manual Excel charting and handling thousands of data points seamlessly.
+
+**Visualize key metrics like:** Wind speed, blade pitch angles, rotor speed, tower loads, power output, and structural responses - all in customizable, auto-updating plots.
 
 ## 📌 Features
 - ✅ **Real-time data plotting** with Matplotlib animations.  
