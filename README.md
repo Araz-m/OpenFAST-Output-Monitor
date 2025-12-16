@@ -1,6 +1,6 @@
 # OpenFast-monitor
 
-# OpenFAST Monitor: Real-time & Post-Processing Visualization Tool
+# Real-time & Post-Processing Visualization Tool
 
 A Python tool for live monitoring and analysis of OpenFAST wind turbine simulations. Automatically plots parameters from `.out` files during execution (real-time) or after completion, eliminating manual Excel charting and handling thousands of data points seamlessly.
 
