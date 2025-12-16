@@ -55,7 +55,7 @@ Install the required Python packages:
 pip install pandas matplotlib numpy
 ```
 ---
-## ⚙️ Usage
+##  Usage
 ### 1. Configure Input File and Time Settings
 
 In the script, define:
@@ -65,6 +65,12 @@ In the script, define:
 - Simulation time range
 
 - Simulation time step (must match the OpenFAST configuration)
+
+```bash
+file_path = "path/to/your/OpenFAST.out"
+simulation_time_range = (start_time, end_time)
+simulation_time_step = dt
+```
 
 ```bash
 plot_groups_1 = {
