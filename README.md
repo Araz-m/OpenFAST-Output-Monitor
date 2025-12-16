@@ -67,13 +67,13 @@ you have to add the exact column name from your .out file and also you have to c
 ```bash
 real_time=True
 ```
-Run the OpenFast_Output_Viewer Script (I used VSCode Terminal)
+Run the OpenFast-monitor Script (I used VSCode Terminal)
 
 ## 📸 Sample Output
 ### 1 Set Example: 
-https://github.com/Araz-m/OpenFast_Output_Viewer/blob/main/Figure_1_Example.png
+https://github.com/Araz-m/OpenFast-monitor/blob/main/Figure_1_Example.png
 ### Multiple Set Handling:
-https://github.com/Araz-m/OpenFast_Output_Viewer/blob/main/3%20sets%20of%20figures_Example.png
+https://github.com/Araz-m/OpenFast-monitor/blob/main/3%20sets%20of%20figures_Example.png
 
 ## License
 
