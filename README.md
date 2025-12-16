@@ -1,4 +1,4 @@
-# OpenFas-monitor
+# OpenFast-monitor
 
 # OpenFAST Monitor: Real-time & Post-Processing Visualization Tool
 
