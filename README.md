@@ -110,6 +110,8 @@ real_time = False
 ```
 The script can be executed from any Python environment (e.g. VS Code terminal).
 
+---
+
 ## 📸 Example Outputs
 
 ### Single Plot Group Example 
@@ -119,6 +121,8 @@ https://github.com/Araz-m/OpenFAST-Output-Monitor/blob/main/Figure_1_Example.png
 ### Multiple Plot Group Example
 
 https://github.com/Araz-m/OpenFAST-Output-Monitor/blob/main/3%20sets%20of%20figures_Example.png
+
+---
 
 ## Limitations
 
@@ -130,17 +134,21 @@ https://github.com/Araz-m/OpenFAST-Output-Monitor/blob/main/3%20sets%20of%20figu
 
 - File paths and parameters are currently defined directly in the script
 
+---
+
 ## Related Tools
 
 This tool is part of a small set of OpenFAST automation utilities:
 
-- OpenFAST-DLC-sampler-Automator
+- OpenFAST-DLC-Runner
   Automates generation and execution of individual DLC simulations
   https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator
 
-- OpenFAST-DLC-campaign-Automator
+- OpenFAST-DLC-campaign-Runner
   Sequentially runs multiple DLC simulations as a complete campaign
   https://github.com/Araz-m/OpenFAST-DLC-campaign-Automator
+
+---
 
 ## License
 
