@@ -142,11 +142,11 @@ This tool is part of a small set of OpenFAST automation utilities:
 
 - OpenFAST-DLC-Runner
   Automates generation and execution of individual DLC simulations
-  https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator
+  https://github.com/Araz-m/OpenFAST-DLC-Runner
 
 - OpenFAST-DLC-campaign-Runner
   Sequentially runs multiple DLC simulations as a complete campaign
-  https://github.com/Araz-m/OpenFAST-DLC-campaign-Automator
+  https://github.com/Araz-m/OpenFAST-DLC-campaign-Runner
 
 ---
 
